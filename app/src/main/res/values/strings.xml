@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">HeartCheckerTest</string>
+    <string name="gender">gender</string>
+    <string name="male">male</string>
+    <string name="female">female</string>
+    <string name="ChestPain">ChestPain</string>
+    <string name="Atypical_Angina">Atypical_Angina</string>
+    <string name="Typical_Angina">Typical_Angina</string>
+    <string name="NonAnginal">NonAnginal</string>
+    <string name="Asymptomatic">Asymptomatic</string>
+    <string name="Electrocardiographic">Electrocardiographic</string>
+    <string name="normal">normal</string>
+    <string name="STT_wave_Abnormal">STT_wave_Abnormal</string>
+    <string name="leftVentricularHypertrophy">leftVentricularHypertrophy</string>
+    <string name="InducedAngina">InducedAngina</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+    <string name="Thal">Thal</string>
+    <string name="fixed">fixed</string>
+    <string name="Reversible_Defect">Reversible_Defect</string>
+    <string name="submit">submit</string>
+</resources>
