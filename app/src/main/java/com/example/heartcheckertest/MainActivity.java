@@ -295,7 +295,7 @@ public class MainActivity extends AppCompatActivity{
                 Log.i("BodyContentType", "getBodyContentType:" +"application/json; charset=" + getParamsEncoding());
                 return "application/json";
             }
-
+			/* Adding the comment for testing the git */
            /*@Override
             public byte[] getBody() {
 
